@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mechathink/static/css/main.27fd15f6.chunk.css",
+    "main.js": "/mechathink/static/js/main.73109c1e.chunk.js",
+    "main.js.map": "/mechathink/static/js/main.73109c1e.chunk.js.map",
+    "runtime-main.js": "/mechathink/static/js/runtime-main.0e94f2bd.js",
+    "runtime-main.js.map": "/mechathink/static/js/runtime-main.0e94f2bd.js.map",
+    "static/js/2.caa36513.chunk.js": "/mechathink/static/js/2.caa36513.chunk.js",
+    "static/js/2.caa36513.chunk.js.map": "/mechathink/static/js/2.caa36513.chunk.js.map",
+    "index.html": "/mechathink/index.html",
+    "precache-manifest.05c07063ac7d014a66a12308b63418b2.js": "/mechathink/precache-manifest.05c07063ac7d014a66a12308b63418b2.js",
+    "service-worker.js": "/mechathink/service-worker.js",
+    "static/css/main.27fd15f6.chunk.css.map": "/mechathink/static/css/main.27fd15f6.chunk.css.map",
+    "static/js/2.caa36513.chunk.js.LICENSE": "/mechathink/static/js/2.caa36513.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0e94f2bd.js",
+    "static/js/2.caa36513.chunk.js",
+    "static/css/main.27fd15f6.chunk.css",
+    "static/js/main.73109c1e.chunk.js"
+  ]
+}
