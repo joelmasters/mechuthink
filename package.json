@@ -19,7 +19,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://joelmasters.github.io/mechathink",
+  "homepage": "https://joelmasters.github.io/mechuthink",
   "eslintConfig": {
     "extends": "react-app"
   },
