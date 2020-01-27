@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/mechathink/precache-manifest.05c07063ac7d014a66a12308b63418b2.js"
+  "/mechathink/precache-manifest.e91d43b504eae5d61a017f9cd57acbd9.js"
 );
 
 self.addEventListener('message', (event) => {
